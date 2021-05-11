@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://scontent.fnag1-1.fna.fbcdn.net/v/t1.6435-9/117240524_583128285688700_7034514943599578992_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=xOe57JIuta0AX_2km1k&_nc_ht=scontent.fnag1-1.fna&oh=9cf1dd9a16a63ac0d2426a48e32cea43&oe=60BDBB25);
+    height: 100%;
+    width :  100%;
+    background-size: cover;  
+}
+
+#color-overlay{
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    text-align: center;
+    color: red;
+}
+
+#text-bg{
+    line-height: 100vh;
+    font-size: 88px;
+    margin: 0;
+}
